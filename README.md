@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 # Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Akkshunn.
 
 ## 💫 About Me:
-Hi, I'm Akkshunn Vijroy, a 4th year Undergrad at BITS Pilani, <br>exploring the rich field of Deep Learning including Computer Vision and Natural Language Processing.<br><br>🌱 Tech that excites me: PyTorch | Tensorflow <br>👨‍💻 All of my projects are available at: @rvijroy<br>⚡
+Hi, I'm Akkshunn Vijroy, a 4th year Undergrad at BITS Pilani, exploring the rich field of Deep Learning including Computer Vision and Natural Language Processing.<br><br>🌱 Tech that excites me: PyTorch | Tensorflow <br>👨‍💻 All of my projects are available at: @rvijroy<br>⚡
 
 
 ## 🌐 Socials:
